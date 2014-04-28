@@ -8,7 +8,8 @@ public class TappyScript : MonoBehaviour {
 	void OnTap( TapGesture gesture ) 
 	{ 
 
-				destinationSphere.transform.position = new Vector3 (gesture.Position.x, gesture.Position.y, 0);
+				//destinationSphere.transform.position = new Vector3 (gesture.Position.x, gesture.Position.y, 0);
+				destinationSphere.transform.position = GetWorldPos( gesture.Position );
 				print ("tap Position = " + gesture.Position);
 
 	}
@@ -22,4 +23,14 @@ public class TappyScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+		public static Vector3 GetWorldPos( Vector2 screenPos )
+		{
+				Ray ray = Camera.main.ScreenPointToRay( screenPos );
+
+				// we solve for intersection with z = 0 plane
+				float t = -ray.origin.z / ray.direction.z;
+
+				return ray.GetPoint( t );
+		}
 }
