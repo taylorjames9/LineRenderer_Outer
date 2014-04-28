@@ -23,9 +23,6 @@ public class LineRendererScript : MonoBehaviour {
 				lineRenderer.SetPosition (0, origin.position);
 				lineRenderer.SetWidth (0.45f, 0.45f);
 
-
-
-	
 	}
 	
 	// Update is called once per frame

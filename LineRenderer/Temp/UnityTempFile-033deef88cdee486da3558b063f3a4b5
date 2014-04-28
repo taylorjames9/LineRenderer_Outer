@@ -38,6 +38,9 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
-'Assets/Scripts/NewBehaviourScript.cs'
+'Assets/Scripts/BackgroundManager.cs'
+'Assets/Scripts/DestinationMove.cs'
+'Assets/Scripts/LineRendererScript.cs'
+'Assets/Scripts/TappyScript.cs'
 -r:'/Applications/Unity4.3.3.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity4.3.3.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

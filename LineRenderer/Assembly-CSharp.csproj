@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\BackgroundManager.cs" />
      <Compile Include="Assets\Scripts\DestinationMove.cs" />
      <Compile Include="Assets\Scripts\LineRendererScript.cs" />
+     <Compile Include="Assets\Scripts\TappyScript.cs" />
      <None Include="Assets\Plugins\FingerGestures\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
