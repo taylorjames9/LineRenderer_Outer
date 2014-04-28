@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BackgroundManager.cs">
+    <Files>
+      <File FileName="../Desktop/ParseUnityStarterProject-CSharp-1.2.14 2/Assets/Scripts/ParseTestScript.cs" Line="27" Column="1" />
+      <File FileName="../powers_spots_poc/PowerSpotsPOC/Assets/Assets/Scripts/SelectionManager.cs" Line="32" Column="2" />
+      <File FileName="../powers_spots_poc/PowerSpotsPOC/Assets/Assets/Scripts/ParseUtil.cs" Line="1" Column="1" />
+      <File FileName="../powers_spots_poc/PowerSpotsPOC/Assets/Assets/Plugins/Singleton.cs" Line="1" Column="1" />
+      <File FileName="../powers_spots_poc/PowerSpotsPOC/Assets/Assets/Plugins/MonoBehaviourExtended.cs" Line="1" Column="1" />
+      <File FileName="../powers_spots_poc/PowerSpotsPOC/Assets/Assets/Scripts/TeamStatusManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LineRendererScript.cs" Line="34" Column="69" />
+      <File FileName="Assets/Scripts/DestinationMove.cs" Line="15" Column="57" />
+      <File FileName="Assets/Scripts/BackgroundManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
