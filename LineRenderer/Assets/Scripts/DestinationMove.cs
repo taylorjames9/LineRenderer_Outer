@@ -12,6 +12,6 @@ public class DestinationMove : MonoBehaviour {
 	void Update () {
 
 
-				//transform.Translate(Vector3.right * Time.deltaTime*3);
+				transform.Translate(Vector3.right * Time.deltaTime*3);
 	}
 }
